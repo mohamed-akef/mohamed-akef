@@ -6,6 +6,8 @@
 
 ![Typescript](https://img.shields.io/badge/-Typescript-gray?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)
+![laravel](https://img.shields.io/badge/-laravel-blue?style=flat-square&logo=laravel)
+
 
 
 
