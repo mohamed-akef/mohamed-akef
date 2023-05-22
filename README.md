@@ -4,4 +4,4 @@
 - 💬 Ask me about Backend development
 - 📫 How to reach me: medoakef@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-akef&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-akef&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
