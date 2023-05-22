@@ -7,7 +7,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-9cf?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-critical?style=flat-square&logo=nestjs)
 ![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)
-![laravel](https://img.shields.io/badge/-laravel-critical?style=flat-square&logo=laravel)
+![laravel](https://img.shields.io/badge/-laravel-orange?style=flat-square&logo=laravel)
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-9cf?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?style=flat-square&logo=PostgreSQL)
