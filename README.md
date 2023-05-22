@@ -9,7 +9,7 @@
 ![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)
 ![laravel](https://img.shields.io/badge/-laravel-important?style=flat-square&logo=laravel)
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-9cf?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9cf?style=flat-square&logo=PostgreSQL)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
