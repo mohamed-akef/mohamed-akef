@@ -4,7 +4,7 @@
 - 💬 Ask me about Backend development
 - 📫 How to reach me: medoakef@gmail.com
 
-![Typescript](https://img.shields.io/badge/-Typescript?style=flat-square&logo=typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-critical?style=flat-square&logo=nestjs)
 ![PHP](https://img.shields.io/badge/-php-blue?style=flat-square&logo=php)
 ![laravel](https://img.shields.io/badge/-laravel-important?style=flat-square&logo=laravel)
