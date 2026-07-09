@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mohamedakef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Mohamed3kef"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="mailto:mohamed.hamed.akef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:medoakef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@ I'm a **Senior Engineering Manager**. I build and scale engineering organization
 
 - 🧑‍💻 Hands-on with **Go** and distributed, event-driven systems.
 - 🛠️ Focused on **platform engineering & developer experience** — reliability, delivery standards and shorter feedback loops.
-- 🌍 **13 years** in software · **7+** leading distributed, multi-timezone teams — WUZZUF, Jumia, Sharwa, Taager.
+- 🌍 **15 years** in software · **7+** leading distributed, multi-timezone teams — WUZZUF, Jumia, Sharwa, Taager.
 - ⚖️ A self-taught engineer who **began in law** — range and first-principles thinking on hard problems.
 - 🎮 Based in Cairo, Egypt (GMT+2). Off the clock: gamer & cars enthusiast.
 
