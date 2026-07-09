@@ -1,16 +1,10 @@
 <h1 align="center">Hi, I'm Mohamed Akef 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&center=true&vCenter=true&width=720&lines=Senior+Engineering+Manager;Building+%26+scaling+engineering+orgs+from+0+%E2%86%92+1;Hands-on+with+Go%2C+distributed+systems+%26+platform;13+years+in+software+%C2%B7+7%2B+leading+teams" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">Senior Engineering Manager</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamedakef"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Mohamed3kef"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="mailto:mohamed.hamed.akef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mohamed-akef&style=for-the-badge&color=6f42c1&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -19,11 +13,11 @@
 
 I'm a **Senior Engineering Manager**. I build and scale engineering organizations **from zero** — hiring, career ladders and an async, remote-first culture — while staying hands-on with architecture: microservices, event-driven systems and platform engineering.
 
-- 🧑‍💻 Hands-on with **Go** and distributed, event-driven systems — turning complex domains into reliable, automated platforms.
-- 🛠️ Driving **platform engineering & developer experience** — reliability, delivery standards and shorter feedback loops.
-- 🌍 **13 years** in software · **7+** leading distributed, multi-timezone teams across MENA's largest tech companies and venture-backed startups — WUZZUF, Jumia, Sharwa, Taager.
-- ⚖️ A self-taught engineer who **began in law** — I bring range and first-principles thinking to hard technical problems.
-- 🎮 Off the clock: gamer & cars enthusiast, based in Cairo, Egypt (GMT+2).
+- 🧑‍💻 Hands-on with **Go** and distributed, event-driven systems.
+- 🛠️ Focused on **platform engineering & developer experience** — reliability, delivery standards and shorter feedback loops.
+- 🌍 **13 years** in software · **7+** leading distributed, multi-timezone teams — WUZZUF, Jumia, Sharwa, Taager.
+- ⚖️ A self-taught engineer who **began in law** — range and first-principles thinking on hard problems.
+- 🎮 Based in Cairo, Egypt (GMT+2). Off the clock: gamer & cars enthusiast.
 
 📄 More detail in my **[CV](https://github.com/mohamed-akef/cv)**.
 
@@ -48,7 +42,6 @@ I'm a **Senior Engineering Manager**. I build and scale engineering organization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Data & Messaging**
@@ -70,24 +63,6 @@ I'm a **Senior Engineering Manager**. I build and scale engineering organization
 
 | Project | What it is |
 | --- | --- |
-| **[agentic-delegator](https://github.com/mohamed-akef/agentic-delegator)** &nbsp;`Go` | SaaS orchestrator that runs Claude Code on sandboxed Docker runners and opens PRs — clean architecture, AES-GCM secret encryption, ghcr.io runner images. |
-| **[headless-sqs](https://github.com/mohamed-akef/headless-sqs)** &nbsp;`TypeScript` | Headless AWS SQS package that auto-provisions queues (creates them if they don't exist) from a simple config. |
-| **[The-Magic-DTO](https://github.com/mohamed-akef/The-Magic-DTO)** &nbsp;`PHP` | Library that gives DTOs setter/getter functionality without hand-writing the boilerplate. |
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-akef&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-akef&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" />
-  </picture>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-akef&hide_border=true&theme=tokyo-night" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-akef&hide_border=true&theme=github-light" alt="Contribution activity graph" />
-</picture>
-
-<p align="center"><i>Most of my day-to-day work lives in private and company repositories.</i></p>
+| **[agentic-delegator](https://github.com/mohamed-akef/agentic-delegator)** &nbsp;`Go` | SaaS orchestrator that runs Claude Code on sandboxed Docker runners and opens PRs. |
+| **[headless-sqs](https://github.com/mohamed-akef/headless-sqs)** &nbsp;`TypeScript` | Headless AWS SQS package that auto-provisions queues from a simple config. |
+| **[The-Magic-DTO](https://github.com/mohamed-akef/The-Magic-DTO)** &nbsp;`PHP` | Library that gives DTOs setter/getter functionality without the boilerplate. |
