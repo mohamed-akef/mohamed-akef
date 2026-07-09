@@ -20,8 +20,6 @@ I'm a **Senior Engineering Manager**. I build and scale engineering organization
 - ⚖️ A self-taught engineer who **began in law** — range and first-principles thinking on hard problems.
 - 🎮 Based in Cairo, Egypt (GMT+2). Off the clock: gamer & cars enthusiast.
 
-📄 More detail in my **[CV](https://github.com/mohamed-akef/cv/blob/main/Mohamed_Akef_CV.pdf)**.
-
 ---
 
 ### 🧰 Tech I work with
