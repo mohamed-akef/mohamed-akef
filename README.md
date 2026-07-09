@@ -16,10 +16,9 @@ I'm a **Senior Engineering Manager**. I build and scale engineering organization
 - 🧑‍💻 Hands-on with **Go** and distributed, event-driven systems.
 - 🛠️ Focused on **platform engineering & developer experience** — reliability, delivery standards and shorter feedback loops.
 - 🌍 **15 years** in software · **7+** leading distributed, multi-timezone teams — WUZZUF, Jumia, Sharwa, Taager.
+- 🧭 Scaled engineering orgs from seed to **10+ engineers**; delivered **4× faster APIs** under peak load and **~35% less operational toil** through automation & re-architecture.
 - ⚖️ A self-taught engineer who **began in law** — range and first-principles thinking on hard problems.
 - 🎮 Based in Cairo, Egypt (GMT+2). Off the clock: gamer & cars enthusiast.
-
-📄 More detail in my **[CV](https://github.com/mohamed-akef/cv)**.
 
 ---
 
