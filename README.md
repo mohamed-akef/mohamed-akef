@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&center=true&vCenter=true&width=720&lines=Senior+Software+Engineering+Manager;Building+%26+scaling+engineering+orgs+from+0+%E2%86%92+1;Hands-on+with+Go%2C+distributed+systems+%26+platform;13+years+in+software+%C2%B7+7%2B+leading+teams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&center=true&vCenter=true&width=720&lines=Senior+Engineering+Manager;Building+%26+scaling+engineering+orgs+from+0+%E2%86%92+1;Hands-on+with+Go%2C+distributed+systems+%26+platform;13+years+in+software+%C2%B7+7%2B+leading+teams" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,11 +17,11 @@
 
 ### 👨‍💻 About me
 
-I'm a **Senior Software Engineering Manager** at **[Tarmeez Capital](https://tarmeez.co)** — a CMA-licensed Saudi *sukuk* fintech backed by stc's Tali Ventures (SAR 2B+ facilitated across 180k+ users). I build and scale engineering organizations **from zero** — hiring, career ladders and an async, remote-first culture — while staying hands-on with architecture: microservices, event-driven systems and platform engineering.
+I'm a **Senior Engineering Manager**. I build and scale engineering organizations **from zero** — hiring, career ladders and an async, remote-first culture — while staying hands-on with architecture: microservices, event-driven systems and platform engineering.
 
-- 🏦 Leading engineering for the **corporate-financing (issuer)** side of the platform — the Go services behind sukuk issuance & financing journeys.
-- 🛠️ Driving **platform engineering & developer experience** — owning an on-demand / ephemeral-environments initiative end to end.
-- 🌍 **13 years** in software · **7+** leading distributed, multi-timezone teams across MENA's largest tech companies and venture-backed startups — WUZZUF, Jumia, Sharwa, Taager, Tarmeez.
+- 🧑‍💻 Hands-on with **Go** and distributed, event-driven systems — turning complex domains into reliable, automated platforms.
+- 🛠️ Driving **platform engineering & developer experience** — reliability, delivery standards and shorter feedback loops.
+- 🌍 **13 years** in software · **7+** leading distributed, multi-timezone teams across MENA's largest tech companies and venture-backed startups — WUZZUF, Jumia, Sharwa, Taager.
 - ⚖️ A self-taught engineer who **began in law** — I bring range and first-principles thinking to hard technical problems.
 - 🎮 Off the clock: gamer & cars enthusiast, based in Cairo, Egypt (GMT+2).
 
